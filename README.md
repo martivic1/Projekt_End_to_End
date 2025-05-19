@@ -22,7 +22,7 @@ Die Datensätze wurden anhand der Merkmale **Hersteller (Make)** und **Modell (M
 
 ---
 
-## ⚙Feature Engineering
+## Feature Engineering
 
 - Vereinheitlichung von Schreibweisen (Grossbuchstaben, Leerzeichen entfernen)
 - Auswahl technischer Merkmale:
@@ -33,7 +33,7 @@ Die Datensätze wurden anhand der Merkmale **Hersteller (Make)** und **Modell (M
 
 ---
 
-## 🧠 Modelle
+## Modelle
 
 Zwei Modelle wurden trainiert und evaluiert:
 
@@ -46,7 +46,7 @@ Zwei Modelle wurden trainiert und evaluiert:
 
 ---
 
-##App
+## App
 [Demo](https://huggingface.co/spaces/martivic/co2-predictor)
   
 
