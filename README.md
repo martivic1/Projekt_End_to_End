@@ -52,13 +52,5 @@ Zwei Modelle wurden trainiert und evaluiert:
 
 ---
 
-## 📁 Projektstruktur
-Projekt_End_to_End
-├── app.py 
-├── co2_rf_model.pkl 
-├── merged_vehicle_data.csv 
-├── requirements.txt 
-├── random_forest.py
-├── linear_regression.py
-└── README.md 
+
 
